@@ -1,5 +1,5 @@
 <?php
-namespace Codilar\HelloWorld\Setup;
+namespace Magerex\FixRules\Setup;
 use Magento\Framework\Setup\UninstallInterface;
 use Magento\Framework\Setup\SchemaSetupInterface;
 use Magento\Framework\Setup\ModuleContextInterface;
