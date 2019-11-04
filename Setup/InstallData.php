@@ -1,6 +1,6 @@
 <?php
 
-namespace Codilar\HelloWorld\Setup;
+namespace Magerex\FixRules\Setup;
 
 use Magento\Framework\Setup\InstallDataInterface;
 use Magento\Framework\Setup\ModuleContextInterface;
